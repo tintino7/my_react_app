@@ -1,0 +1,43 @@
+.container {
+    border: dotted 1px rgb(250, 247, 247);
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.timer{
+    font-size: 4rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.startbutton {
+    background-color: green;
+    border: none;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 600;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+
+.stopbutton {
+    background-color: rgb(226, 21, 6);
+    border: none;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 600;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+
+.resetbutton {
+    background-color: rgb(6, 76, 226);
+    border: none;
+    padding: 5px 15px;
+    color: white;
+    font-weight: 600;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+
